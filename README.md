@@ -1,10 +1,11 @@
 # Distant-Seeing
 ![](figures/banner.png)
-*Text: Applying Machine Vision Algorithms to Historical Scientific Images*
+*Text: Distant Seeing: Applying Machine Vision Algorithms to Historical Scientific Images*
 
 # Info
+Professor: Dr. Jérôme Baudry\
+Supervisors: Dr. Mihailescu Ion-Gabriel & Sidorenko Semion\
 Student: Naël Dillenbourg\
-Supervisors: Mihailescu Ion-Gabriel & Sidorenko Semion\
 Year: 2023
 
 # About
