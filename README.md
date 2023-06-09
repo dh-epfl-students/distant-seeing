@@ -1,8 +1,6 @@
 # Distant-Seeing
 Applying Machine Vision Algorithms to Historical Scientific Images
 
-![](figures/feature_examples.jpg)
-
 # Info
 Student: Naël Dillenbourg\
 Supervisors: Mihailescu Ion-Gabriel & Sidorenko Semion\
