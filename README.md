@@ -9,7 +9,7 @@ Student: Naël Dillenbourg\
 Year: 2023
 
 # About
-Part of the distant-seeing project, this repository uses object detection to localize key features in physics books illustrations. We then explore ways of analysing these features, by comparing their usage, the frequency of appearance and by comparing duplicates found in the work of other authors.
+Part of the distant-seeing project, this repository uses object detection to localize key features in physics books illustrations. We then explore ways of analysing these features, by comparing their usage, the frequency of appearance and by comparing duplicates across books.
 
 # Research summary
 In this paper, we tested numerous models made for object detection before concluding that fine-tuning a model was a necessary step towards the analysis of features in physics books.
