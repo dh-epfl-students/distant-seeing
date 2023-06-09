@@ -3,11 +3,11 @@
 *Text: Distant Seeing: Applying Machine Vision Algorithms to Historical Scientific Images*
 
 # Info
-Professor: Dr. Jérôme Baudry\
-Supervisors: Dr. Mihailescu Ion-Gabriel & Sidorenko Semion\
-Student: Naël Dillenbourg\
-University : EPFL (Semester project MA)\
-Year: 2023
+**Professor:** Dr. Jérôme Baudry\
+**Supervisors**: Dr. Mihailescu Ion-Gabriel & Sidorenko Semion\
+**Student**:** Naël Dillenbourg\
+**University** : EPFL *(Semester project MA)*\
+**Year**: 2023
 
 # About
 Part of the distant-seeing project, this repository uses object detection to localize key features in physics books illustrations. We then explore ways of analysing these features, by comparing their usage, the frequency of appearance and by comparing duplicates across books.
