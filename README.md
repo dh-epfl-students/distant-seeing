@@ -1,13 +1,15 @@
 # Distant-Seeing
 Applying Machine Vision Algorithms to Historical Scientific Images
 
+![](figures/feature_examples.jpg)
+
 # Info
 Student: Naël Dillenbourg\
 Supervisors: Mihailescu Ion-Gabriel & Sidorenko Semion\
 Year: 2023
 
 # About
-Using object detection to localize features in physics books illustrations, then analyse thoses features 
+Part of the distant-seeing project, this repository uses object detection to localize key features in physics books illustrations. We then explore ways of analysing these features, by comparing their usage, the frequency of appearance and by comparing duplicates found in the work of other authors.
 
 # Research summary
 In this paper, we tested numerous models made for object detection before concluding that fine-tuning a model was a necessary step towards the analysis of features in physics books.
@@ -23,4 +25,4 @@ conda create --name env_distant_seeing --file \notebooks\env.txt
 # License
 distant-seeing - Naël Dillenbourg    
 Copyright (c) 2023 EPFL    
-This program is licensed under the terms of the MIT License. 
+This program is licensed under the terms of the GPL. 
