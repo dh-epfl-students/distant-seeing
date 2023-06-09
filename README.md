@@ -6,6 +6,7 @@
 Professor: Dr. Jérôme Baudry\
 Supervisors: Dr. Mihailescu Ion-Gabriel & Sidorenko Semion\
 Student: Naël Dillenbourg\
+University : EPFL (Semester project MA)\
 Year: 2023
 
 # About
