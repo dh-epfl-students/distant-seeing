@@ -1,5 +1,6 @@
 # Distant-Seeing
 Applying Machine Vision Algorithms to Historical Scientific Images
+![](figures/banner.png)
 
 # Info
 Student: Naël Dillenbourg\
