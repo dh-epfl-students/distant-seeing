@@ -1,4 +1,4 @@
-![cummulative_predictions](https://github.com/dhlab-epfl-students/distant-seeing/assets/103629414/fab562e1-2d22-47a2-888e-339201f8c361)# Distant-Seeing
+# Distant-Seeing
 ![](figures/banner.png)
 *Text: Distant Seeing: Applying Machine Vision Algorithms to Historical Scientific Images*
 
