@@ -1,4 +1,4 @@
-# Distant-Seeing
+![cummulative_predictions](https://github.com/dhlab-epfl-students/distant-seeing/assets/103629414/fab562e1-2d22-47a2-888e-339201f8c361)# Distant-Seeing
 ![](figures/banner.png)
 *Text: Distant Seeing: Applying Machine Vision Algorithms to Historical Scientific Images*
 
@@ -15,9 +15,9 @@ Part of the distant-seeing project, this repository uses object detection to loc
 # Research summary
 In this paper, we tested numerous models made for object detection before concluding that fine-tuning a model was a necessary step towards the analysis of features in physics books.
 We compared various parameters to fine-tune to the best of our ability a model capable of extracting features from a large dataset of illustrations. We find that optimal performances should be reached by a model using a Unet++ architecture, with a resnext101_32x16d encoder, using Instagram encoder weights, a batch size of 32 and a distribution of illustrations containing features between $50\%$ and $33\%$ according to our tests. We then analysed several books and found no particular trends in the usage of hands throughout time in physics books but did seem to find trends regarding the usage of hands with specific chapters. We also found examples of reused engraving plates with hands as features in illustrations or redrawn illustrations across authors.
-![](figures/plot_predication_page.png)
-![](figures/cummulative_predictions.png)
-*More plots produced during this research are included in the [report](report/Report.pdf)*
+![](https://github.com/dhlab-epfl-students/distant-seeing/blob/main/figures/plot_predication_page.png?raw=true)
+![](https://github.com/dhlab-epfl-students/distant-seeing/blob/main/figures/cummulative_predictions.png?raw=true)
+*More plots produced during this research are included in the [report](https://github.com/dhlab-epfl-students/distant-seeing/blob/main/report/Report.pdf)*
 # Installation and Usage
 A conda environment was used to during this project. A dependencies list was compiled from this environment.
 ```
